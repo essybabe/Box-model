@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+}
+.sect1{
+    border: 10px solid black;
+    border-radius: 40px;
+    padding:15px;
+    margin: 2px;
+    color: green;
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#h1{
+    font-size: 18px;
+    text-align: center;
+}
+#p1{
+    font-size: 14px;
+}
+.sect2{
+    border: 10px solid black ;
+    border-radius: 40px;
+    padding:15px;
+    margin: 2px;
+    color: red;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sect3{
+    border: 10px solid black ;
+    border-radius: 40px;
+    padding:15px;
+    margin: 2px;
+    color: blue;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
